@@ -1,0 +1,1 @@
+lightweight_gan --data  ../global_dataset/wikiart/flower-painting --name flower2 --batch-size 16 --gradient-accumulate-every 2 --evaluate-every 200 --save-every 200 --image_size 128 --num-workers 20
